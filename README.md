@@ -1,1 +1,1 @@
-# undergraduatestydy
+# undergraduate study

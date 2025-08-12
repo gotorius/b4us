@@ -1,0 +1,32 @@
+# データセット
+pcamdata/
+MedImages/
+*.h5
+*.zip
+*.tar.gz
+*.tar
+*.npz
+*.npy
+
+# チェックポイント・モデル
+checkpoints/
+checkpoint_medical/
+*.pth
+*.pt
+*.t7
+
+# ログ・一時ファイル
+log_medical/
+*.log
+*.csv
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+
+# その他
+.DS_Store
+.env

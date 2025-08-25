@@ -9,6 +9,9 @@ MedImages/
 *.npy
 
 # チェックポイント・モデル
+kaggledata/test/
+kaggledata/train/
+
 checkpoints/
 checkpoint_medical/
 *.pth
